@@ -33,7 +33,7 @@ Ikuti langkah-langkah di bawah ini untuk melakukan setup lingkungan pengembangan
 
 Langkah 1: Clone Repository
 ```bash
-git clone https://github.com/mumtazalwan/laperbang.git
+https://github.com/mumtazalwan/LaperBang-Seller.git
 cd LaperBang-47ae905394b8c9dad0dfe86d1a3dde437a7ecaf2
 ```
 
